@@ -320,7 +320,7 @@ const options = {
     'spaced-comment': [
       'error',
       'always',
-      {markers: ['/']},
+      {markers: ['!', '/']},
     ],
     'switch-colon-spacing': 'error',
     'symbol-description': 'error',
